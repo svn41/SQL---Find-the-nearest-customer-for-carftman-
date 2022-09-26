@@ -1,6 +1,6 @@
-CREATE DATABASE enpal;
+CREATE DATABASE store;
 
-USE enpal;
+USE store;
 
 drop table if exists teams;
 
