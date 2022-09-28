@@ -1,6 +1,6 @@
-CREATE DATABASE store;
+CREATE DATABASE storedb;
 
-USE store;
+USE storedb;
 
 drop table if exists teams;
 
